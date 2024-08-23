@@ -1,5 +1,7 @@
 **Project Description: Student Grading System**
 
+<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgcfLOXoTTfI2sobImVe8Gj30i5zj76s3Y3mFZdTy5jqlKf2d-V4Uk8MwlZ4n51EZ6V9gtpIAklV_62XPQPIaM6Rpo9jRwFd-puo5-JF2Dvj7FLwDLtrhxgcGnpd1nTpZV1zvVGHLaLgNY/s1600/report+card+on+C+++waqeeh+2.png" height="auto" width="3000px">
+
 **Introduction:**
 The provided C++ code implements a simple student grading system. The program prompts the user to input details about a student, including name, student ID, batch, department, semester, and the number of subjects. Subsequently, the user is asked to input grades for each subject, and the program calculates the average grade and determines whether the student passes or fails based on a passing threshold of 50.0.
 
